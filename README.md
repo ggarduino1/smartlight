@@ -1,4 +1,4 @@
-[Smart Lamp](https://github.com/ggarduino1/smart_lamp) (Lâmpada Inteligente)
+[Smart Light](https://github.com/ggarduino1/smart_light) (Lâmpada Inteligente)
 =======
 Sistema de acionamento de uma Lâmpada de forma inteligente.
 
