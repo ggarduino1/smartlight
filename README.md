@@ -31,4 +31,8 @@ Para acessar o sistema bluetooth, o usuário deve baixar o app do Botão dispon�
 ## Circuito
 [![Screen Shot](images/smartlightcirc.png)](https://github.com/ggarduino1/smart_light)
 
+.
+.
+.
+
 ## Desenvolvido por: [GG Arduino](https://www.instagram.com/gg_arduino/)
