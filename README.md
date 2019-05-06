@@ -2,7 +2,7 @@
 =======
 Sistema de acionamento de uma Lâmpada de forma inteligente.
 
-Neste projeto é apresentado uma forma de fácil entendemento e fácil custo de automatizar uma parte da sua residência, e tem como propósito facilitar o acesso a iluminação no local desejado. O sistema torna uma lâmpada sensível a palmas ou qualquer outro alto ruído, e a torna controlável através de um aplicativo de sistema Android por meio da conexão Bluetooth de um Smartphone. 
+Neste projeto é apresentado uma forma de fácil entendimento e fácil custo de automatizar uma parte da sua residência, e tem como propósito facilitar o acesso a iluminação no local desejado. O sistema torna uma lâmpada sensível a palma ou qualquer outro alto ruído, e a torna controlável através de um aplicativo de sistema Android por meio da conexão Bluetooth de um Smartphone. 
 
 [![Screen Shot](images/smartlamp.png)](https://github.com/ggarduino1/smartlight)
 
