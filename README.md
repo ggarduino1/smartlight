@@ -29,6 +29,6 @@ Logo que é alimentado, o sistema de palmas imediatamente entra em funcionamento
 Para acessar o sistema bluetooth, o usuário deve baixar o app do Botão disponível na PlayStore e conectá-lo ao Arduino via bluetooth. Após conectado, basta apertar o botão no Smartphone para que o Relé conectado à lâmpada seja acionado, acendendo-a.
 
 ## Circuito
-[![Screen Shot](images/smartlightcircuito.png)](https://github.com/ggarduino1/smart_light)
+[![Screen Shot](images/smartlightcirc.png)](https://github.com/ggarduino1/smart_light)
 
 ## Desenvolvido por: [GG Arduino](https://www.instagram.com/gg_arduino/)
