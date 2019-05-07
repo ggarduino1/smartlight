@@ -7,7 +7,7 @@ Neste projeto é apresentado uma forma de fácil entendimento e fácil custo de 
 [![Screen Shot](images/smartlamp.png)](https://github.com/ggarduino1/smartlight)
 
 ## Componentes utilizados:
-* Arduino UNO
+* Arduino UNO ou NANO
 * Lâmpada LED 7W
 * Módulo Relé de 1 canal
 * Sensor de som Ky-038
